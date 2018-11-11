@@ -2831,7 +2831,7 @@ function saveOps() {
 }*/
 
 
-client.login('Mzc4NjY3NjM2OTQ4NzI5ODU2.DPzoaA.5RXYy3CMJ0uH82Y_x5nYGVtE0Z0');
+client.login('');
 
 //Objects
 function Point(x, y, z) {
